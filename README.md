@@ -12,6 +12,7 @@ El proyecto está dividido en dos repositorios independientes: frontend y backen
 ## Aplicación desplegada
 
 - **Frontend (Vercel):** [tp-dsw-pizzeria-frontend.vercel.app](https://tp-dsw-pizzeria-frontend.vercel.app/)
+-  **Backend:** Render.
 - **Base de datos:** MySQL en Aiven.
 
 ## Grupo
