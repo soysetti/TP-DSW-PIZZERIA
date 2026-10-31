@@ -43,6 +43,9 @@ Al crear un pedido se descuenta de forma transaccional el stock de ingredientes.
 
 [Ver diagrama de clases](https://drive.google.com/file/d/1xWHBcCBiaYEYtk39Oxa8nYyFgnX6Xuhz/view?usp=sharing).
 
+### Video
+[Ver video prueba](https://drive.google.com/file/d/13SYLFEC47d4B_zVKcOgjAeWfLTgKnigb/view?usp=sharing).
+
 ## Alcance funcional
 
 ### Alcance mínimo
