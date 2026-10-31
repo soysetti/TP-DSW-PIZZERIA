@@ -127,3 +127,7 @@ Para ejecutar el sistema localmente se necesitan Node.js, pnpm y MySQL. Se debe 
 
 - **Columbich, Julian:** [jcolumbich@gmail.com](mailto:jcolumbich@gmail.com).
 - **Setti, Francisco:** [settifrancisco.esc5032@gmail.com](mailto:settifrancisco.esc5032@gmail.com).
+
+## Documentación
+
+[Ver documentación del proyecto](./docs/README.md)
